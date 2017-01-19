@@ -1,7 +1,7 @@
 
 .bg-1{ 
     
-    background-image:url(http://www.shunvmall.com/data/out/18/47264986-background-image.jpg);
+    background-image: url('http://www.shunvmall.com/data/out/18/47264986-background-image.jpg');
     background-size: cover;
 }
 #d1{visibility:hidden;
